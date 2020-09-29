@@ -1,0 +1,6 @@
+{
+    "presets": [],
+    "plugins": [
+        [ "replace-var", { "cc" : "D_111" } ]
+    ]
+}
